@@ -1,1 +1,2 @@
 This is the first file of the repository
+This is the second text of the repository
